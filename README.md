@@ -1,11 +1,18 @@
 ### Hi 👋, I' m Prohorov Stepan
-![image](https://github.com/doublefc/doublefc/assets/108407596/970d6b0a-2c84-4006-a99f-f120a316d2b4)
-![image](https://github.com/doublefc/doublefc/assets/108407596/6ba1a0ea-696d-4cc0-a439-944e607d78a8)
-![image](https://github.com/doublefc/doublefc/assets/108407596/683aaf27-05a1-4931-ad79-2ba5037ed4c5)
-![image](https://github.com/doublefc/doublefc/assets/108407596/ed32efb2-5139-409f-9e86-7be8a140a479)
-![image](https://github.com/doublefc/doublefc/assets/108407596/f86a3f7f-fecd-4471-a495-75e804ae2119)
-![image](https://github.com/doublefc/doublefc/assets/108407596/9658fc85-0cae-46e0-9323-317d49a18f59)
-![image](https://camo.githubusercontent.com/08d98ece5b14553925ebb99b8d15f62c900cad19b169de578a68bdb057d50c68/68747470733a2f2f736561626f726e2e7079646174612e6f72672f5f696d616765732f6c6f676f2d74616c6c2d6c6967687462672e737667)
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="65" height="65"/>&nbsp;
+  <img src="[https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg](https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png)" title="Ms SQL Server" alt="Ms SQL Server" width="65" height="65"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="65" height="65"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" alt="pandas" width="65" height="65"/>&nbsp;
+  <img src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg" title="Matplotlib" alt="Matplotlib" width="65" height="65"/>&nbsp;
+  <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" title="seaborn" alt="seaborn" width="65" height="65"/>&nbsp;
+  <img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo-without-subtitle.svg" title="scikit-learn" alt="scikit-learn" width="65" height="65"/>&nbsp;
+  <img src="https://github.com/microsoft/LightGBM/blob/master/docs/logo/LightGBM_logo_black_text.svg" title="LightGBM" alt="LightGBM" width="65" height="65"/>&nbsp;
+  <img src="https://github.com/valohai/ml-logos/blob/master/keras-text.svg" title="Keras" alt="Keras" width="65" height="65"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="PyTorch" alt="PyTorch" width="65" height="65"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="65" height="65"/>&nbsp;
+  
+</div>
 <!--
 **doublefc/doublefc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
