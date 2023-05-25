@@ -1,7 +1,7 @@
 ### Hi 👋, I' m Prohorov Stepan
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="65" height="65"/>&nbsp;
-  <img src="[https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg](https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png)" title="Ms SQL Server" alt="Ms SQL Server" width="65" height="65"/>&nbsp;
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="65" height="65"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" alt="pandas" width="65" height="65"/>&nbsp;
   <img src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg" title="Matplotlib" alt="Matplotlib" width="65" height="65"/>&nbsp;
