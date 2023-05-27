@@ -9,7 +9,7 @@
   <img src="https://github.com/microsoft/LightGBM/blob/master/docs/logo/LightGBM_logo_black_text.svg" title="LightGBM" alt="LightGBM" width="65" height="65"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="PyTorch" alt="PyTorch" width="65" height="65"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="65" height="65"/>&nbsp;
-   <img src=https://brandeps.com/logo-download/C/CatBoost-logo-vector-01.svg](https://miro.medium.com/v2/resize:fit:828/format:webp/1*MW2GNgFSH63k6XC3SKT7zA.png title="CatBoost" alt="CatBoost" width="65" height="65"/>&nbsp;
+   <img src="https://brandeps.com/logo-download/C/CatBoost-logo-vector-01.svg](https://miro.medium.com/v2/resize:fit:828/format:webp/1*MW2GNgFSH63k6XC3SKT7zA.png" title="CatBoost" alt="CatBoost" width="65" height="65"/>&nbsp;
 </div>
 <!--
 **doublefc/doublefc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
